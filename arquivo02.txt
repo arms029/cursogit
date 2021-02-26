@@ -1,3 +1,4 @@
 uma nova linha no arquivo 02
 teste de hipótese
 um outro teste de hipótese
+atualizando arquivo
